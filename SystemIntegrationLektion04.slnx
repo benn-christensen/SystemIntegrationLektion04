@@ -2,6 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
-  <Project Path="examples/Replier/Replier.csproj" />
-  <Project Path="examples/Requestor/Requestor.csproj" />
+  <Project Path="examples/Replier/Server.csproj" />
+  <Project Path="examples/Requestor/Client.csproj" />
 </Solution>
